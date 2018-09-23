@@ -1,0 +1,11 @@
+[package]
+name = "draw2d"
+version = "0.0.1"
+description = "A focused high-performance 2D drawing crate"
+authors = ["Richard Dodd <richard.o.dodd@gmail.com>"]
+keywords = ["graphics", "2d", "draw", "gfx"]
+categories = ["game-engines", "gui", "rendering", "rendering::engine"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
+
+[dependencies]
